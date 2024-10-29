@@ -23,3 +23,20 @@
 - Chamar/invocar o component criado(ListUsers) e enviar a props para o component.
 
 - E fazer o map dos usuários. Tanto anfitriões e clientes.
+
+
+
+
+
+
+### Etapa 2 do exercicio
+
+- Deve primeiro tentar conseguir construir o projeto com 1 rota dinamica para Hospedagens e outra para Usuários.
+
+- Porém, tem 2 tipos de usuários e 3 tipos de hospedagens.
+
+- Conseguindo fazer a rota de usuários, comece separando e criando a nova estrutura. 
+
+- Criar uma pagina e ROTA para Casas, Apartamentos e Quartos. Uma página e ROTA para Anfritrião e Usuário. 
+
+- Consequentemente listar respectivos dados e usar o useParams do respectivo item.
